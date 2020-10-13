@@ -1,0 +1,11 @@
+/home/horbarz/Documents/AppZoneCodes/csharpFundamentals/bin/Debug/netcoreapp3.1/csharpFundamentals
+/home/horbarz/Documents/AppZoneCodes/csharpFundamentals/bin/Debug/netcoreapp3.1/csharpFundamentals.deps.json
+/home/horbarz/Documents/AppZoneCodes/csharpFundamentals/bin/Debug/netcoreapp3.1/csharpFundamentals.runtimeconfig.json
+/home/horbarz/Documents/AppZoneCodes/csharpFundamentals/bin/Debug/netcoreapp3.1/csharpFundamentals.runtimeconfig.dev.json
+/home/horbarz/Documents/AppZoneCodes/csharpFundamentals/bin/Debug/netcoreapp3.1/csharpFundamentals.dll
+/home/horbarz/Documents/AppZoneCodes/csharpFundamentals/bin/Debug/netcoreapp3.1/csharpFundamentals.pdb
+/home/horbarz/Documents/AppZoneCodes/csharpFundamentals/obj/Debug/netcoreapp3.1/csharpFundamentals.csprojAssemblyReference.cache
+/home/horbarz/Documents/AppZoneCodes/csharpFundamentals/obj/Debug/netcoreapp3.1/csharpFundamentals.AssemblyInfoInputs.cache
+/home/horbarz/Documents/AppZoneCodes/csharpFundamentals/obj/Debug/netcoreapp3.1/csharpFundamentals.AssemblyInfo.cs
+/home/horbarz/Documents/AppZoneCodes/csharpFundamentals/obj/Debug/netcoreapp3.1/csharpFundamentals.dll
+/home/horbarz/Documents/AppZoneCodes/csharpFundamentals/obj/Debug/netcoreapp3.1/csharpFundamentals.pdb
