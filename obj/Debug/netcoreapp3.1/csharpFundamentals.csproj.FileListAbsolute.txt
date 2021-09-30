@@ -9,3 +9,15 @@
 /home/horbarz/Documents/AppZoneCodes/csharpFundamentals/obj/Debug/netcoreapp3.1/csharpFundamentals.AssemblyInfo.cs
 /home/horbarz/Documents/AppZoneCodes/csharpFundamentals/obj/Debug/netcoreapp3.1/csharpFundamentals.dll
 /home/horbarz/Documents/AppZoneCodes/csharpFundamentals/obj/Debug/netcoreapp3.1/csharpFundamentals.pdb
+/Users/mac/Documents/Codes/csharpcodes/csharpCodesss/bin/Debug/netcoreapp3.1/csharpFundamentals.deps.json
+/Users/mac/Documents/Codes/csharpcodes/csharpCodesss/bin/Debug/netcoreapp3.1/csharpFundamentals.runtimeconfig.json
+/Users/mac/Documents/Codes/csharpcodes/csharpCodesss/bin/Debug/netcoreapp3.1/csharpFundamentals.runtimeconfig.dev.json
+/Users/mac/Documents/Codes/csharpcodes/csharpCodesss/bin/Debug/netcoreapp3.1/csharpFundamentals.dll
+/Users/mac/Documents/Codes/csharpcodes/csharpCodesss/bin/Debug/netcoreapp3.1/csharpFundamentals.pdb
+/Users/mac/Documents/Codes/csharpcodes/csharpCodesss/obj/Debug/netcoreapp3.1/csharpFundamentals.csprojAssemblyReference.cache
+/Users/mac/Documents/Codes/csharpcodes/csharpCodesss/obj/Debug/netcoreapp3.1/csharpFundamentals.AssemblyInfoInputs.cache
+/Users/mac/Documents/Codes/csharpcodes/csharpCodesss/obj/Debug/netcoreapp3.1/csharpFundamentals.AssemblyInfo.cs
+/Users/mac/Documents/Codes/csharpcodes/csharpCodesss/obj/Debug/netcoreapp3.1/csharpFundamentals.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/Codes/csharpcodes/csharpCodesss/obj/Debug/netcoreapp3.1/csharpFundamentals.dll
+/Users/mac/Documents/Codes/csharpcodes/csharpCodesss/obj/Debug/netcoreapp3.1/csharpFundamentals.pdb
+/Users/mac/Documents/Codes/csharpcodes/csharpCodesss/obj/Debug/netcoreapp3.1/csharpFundamentals.genruntimeconfig.cache

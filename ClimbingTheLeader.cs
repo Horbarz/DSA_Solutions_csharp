@@ -35,7 +35,6 @@ namespace csharpFundamentals
                     res[i] = rank[index];
                 }
             }
-
             return res;
         }
 
@@ -62,7 +61,6 @@ namespace csharpFundamentals
                     hi = mid-1;
                 }
                 
-
             }
             return -1;
         }

@@ -14,6 +14,7 @@ namespace csharpFundamentals
             int maxCount = 0;
             int teamCount = 0;
 
+
             for(int i=0;i<n;i++){
                 for(int j=i+1;j<0;j++){
                     BigInteger iuj = bi[i]|bi[j];

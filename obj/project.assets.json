@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/home/horbarz/.nuget/packages/": {}
+    "/Users/mac/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/horbarz/Documents/AppZoneCodes/csharpFundamentals/csharpFundamentals.csproj",
+      "projectUniqueName": "/Users/mac/Documents/Codes/csharpcodes/csharpCodesss/csharpFundamentals.csproj",
       "projectName": "csharpFundamentals",
-      "projectPath": "/home/horbarz/Documents/AppZoneCodes/csharpFundamentals/csharpFundamentals.csproj",
-      "packagesPath": "/home/horbarz/.nuget/packages/",
-      "outputPath": "/home/horbarz/Documents/AppZoneCodes/csharpFundamentals/obj/",
+      "projectPath": "/Users/mac/Documents/Codes/csharpcodes/csharpCodesss/csharpFundamentals.csproj",
+      "packagesPath": "/Users/mac/.nuget/packages/",
+      "outputPath": "/Users/mac/Documents/Codes/csharpcodes/csharpCodesss/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/horbarz/.nuget/NuGet/NuGet.Config"
+        "/Users/mac/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -30,6 +30,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -41,6 +42,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -56,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }

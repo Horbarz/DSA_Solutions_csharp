@@ -2,27 +2,36 @@ namespace csharpFundamentals
 {
     public class EqualizeArray
     {
-        public static int aim(int[]arr){
+
+        // Problem Statement
+        // Given an array of integers, determine the minimum number of elements to delete to leave only elements of equal value.
+
+        public static int aim(int[] arr)
+        {
             int n = arr.Length;
-            int[]aux = new int[101];
-            for(int i=0;i<n;i++){
+            int[] aux = new int[101];
+            for (int i = 0; i < n; i++)
+            {
                 int index = arr[i];
                 aux[index]++;
             }
-            return (n-getMaxFreq(aux));
+            return (n - getMaxFreq(aux));
         }
 
-        public static int getMaxFreq(int[]aux){
-            int maxCount = 0;
-            foreach(var freq in aux){
-                if(freq>maxCount){
-                    maxCount = freq;
 
+        public static int getMaxFreq(int[] aux)
+        {
+            int maxCount = 0;
+            foreach (var freq in aux)
+            {
+                if (freq > maxCount)
+                {
+                    maxCount = freq;
                 }
             }
             return maxCount;
-
         }
-
     }
 }
+
+
